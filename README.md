@@ -29,7 +29,7 @@ Key features:
 - Efficient memory usage with single read() call per iteration
 - Bonus: Supports multiple file descriptors simultaneously
 
-🧑‍💻 Peer Evaluations (3/3)
+### 🧑‍💻 Peer Evaluations (3/3)
 Peer 1: "Outstanding patience and explanations of what is happening within the code, and how decisions have been made within the code. Thank you for taking the time to explain everything for me!"
 
 Peer 2: "The code was clean and easy to read, the whole execution of the project was simple and worked very well. Poonkodi explained her approach also very well and we also discussed some other ways to implement this project and how they differ. The function passed all tests without errors, excellent job!"
