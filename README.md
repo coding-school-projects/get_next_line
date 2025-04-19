@@ -36,3 +36,10 @@ Key features:
 1. Clone the repository:
 ```bash
 git clone https://github.com/coding-school-projects/get_next_line.git
+
+🧑‍💻 Peer Evaluations (3/3)
+Peer 1: "Outstanding patience and explanations of what is happening within the code, and how decisions have been made within the code. Thank you for taking the time to explain everything for me!"
+
+Peer 2: "The code was clean and easy to read, the whole execution of the project was simple and worked very well. Poonkodi explained her approach also very well and we also discussed some other ways to implement this project and how they differ. The function passed all tests without errors, excellent job!"
+
+Peer 3: "Very good job Poonkodi! We checked everything and code passed every tests. We had a good discussion about our little bit different solutions. Poonkodi code was easy to read and solutions were vey smart and she uses just a small amount of extra functions. Bonus worked also very well!"
