@@ -1,5 +1,3 @@
-# get_next_line
-
 <h1 align="center">
 	<img src="https://github.com/senthilpoo10/badges/blob/main/badges/get_next_linem.png" />
 </h1>
@@ -15,10 +13,10 @@
     <img alt="estimated time" src="https://img.shields.io/badge/time%20spent-40%20hours-blue" />
     <img alt="XP earned" src="https://img.shields.io/badge/XP%20earned-312-orange" />
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/your-username/get_next_line?color=lightblue" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/your-username/get_next_line?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/your-username/get_next_line?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/your-username/get_next_line?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/senthilpoo10/get_next_line?color=lightblue" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/senthilpoo10/get_next_line?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/senthilpoo10/get_next_line?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/senthilpoo10/get_next_line?color=green" />
 </p>
 
 ## 📚 About The Project
